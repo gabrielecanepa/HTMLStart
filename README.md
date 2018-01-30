@@ -13,10 +13,10 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 
 The generate document contains:
 
-- The _reccomend minimum_ to make the document work properly on any device, showing a title and a description of the page
-- All the essential _Open Graph_ and _Twitter_ tags that enable any web page to become a rich object in a social context
-- A complete reference that will help you show your _icon_ on every browser and device
-- _Link and scripts_ sample tags (with minified Bootstrap and FontAwesome) following best practices to help the document load faster
+- The **reccomend minimum** to make the document work properly on any device, showing a title and a description of the page
+- All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social context
+- A complete reference that will help you show your **favicon** on every browser and device
+- **Link and scripts** sample tags (with minified Bootstrap and FontAwesome) following best practices to help the document load faster
 
 ## Install
 
@@ -43,7 +43,7 @@ That generates:
     <!-- Open graph -->
     <meta property="og:title" content="Page Title">
     <meta property="og:description" content="A description of the page">
-    <meta property="og:site_name" content="Website Name">
+    <meta property="og:site**name" content="Website Name">
     <meta property="og:image" content="http://example.com/image.jpg"> <!-- 1200x630 -->
     <meta property="og:url" content="http://example.com/page.html">
     <!-- Twitter Cards -->
