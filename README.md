@@ -4,7 +4,7 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 
 ## Table of Contents
 
-- [Content]
+- [Content](#content)
 - [Install](#install)
   - [Manual](#manual)
   - [Via Package Control](#via-package-control)
@@ -21,22 +21,21 @@ The generate document contains:
 - A complete reference that will help you show your **icon** on every browser and device
 - **Link and scripts** sample tags following best practices to help the document load faster
 
-
 ## Install
 
 ### Option 1: Manual
 
-Download the
+Download the package from Github()
 
 ### Option 2: Package Control
 
-In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML Boilerplate' then press enter to install.
+In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTMLStart' then press enter to install.
 
 ## Usage
 
 With a blank HTML file open, type
 
-    htmlboiler
+    HTMLStart
 
 and press `TAB`.
 
@@ -85,8 +84,8 @@ That generates:
 </html>
 ```
 
-[↑ back to top](#table-of-contents)
-
 ## License
 
-[MIT Licensed](http://sloria.mit-license.org/).
+[MIT Licensed](http://sloria.mit-license.org/)
+
+[↑ back to top](#table-of-contents)
