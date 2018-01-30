@@ -8,7 +8,6 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 - [Install](#install)
 - [Usage](#usage)
 - [Contribute](#contribute)
-- [License](#license)
 
 ## Content
 
