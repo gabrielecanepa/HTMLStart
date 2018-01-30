@@ -82,12 +82,8 @@ That generates:
 
 [![GitHub forks](https://img.shields.io/github/forks/gabrielecanepa/HTMLStart.svg?style=social&label=Fork)](https://github.com/gabrielecanepa/HTMLStart/network) [![GitHub stars](https://img.shields.io/github/stars/gabrielecanepa/HTMLStart.svg?style=social&label=Star)](https://github.com/gabrielecanepa/HTMLStart/stargazers)
 
-https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
-
 Feel free to pull requests but please only if you have something very useful to add to the boilerplate, which is designed to keep a practical and simple use.
 
 [![MIT Licensed](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)](http://sloria.mit-license.org/)
 
 [↑ back to top](#table-of-contents)
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
