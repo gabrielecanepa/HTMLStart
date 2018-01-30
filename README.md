@@ -80,7 +80,11 @@ That generates:
 
 ## Contribute
 
-[![](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/gabrielecanepa/HTMLStart) [![](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/gabrielecanepa/HTMLStart)
+<a href="https://twitter.com/intent/follow?screen_name=gabricanepa">
+  <img src="https://img.shields.io/twitter/follow/gabricanepa.svg?style=social">
+</a>
+
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/gabrielecanepa/HTMLStart)
 
 Feel free to pull requests but please only if you have something very useful to add to the boilerplate, which is designed to keep a practical and simple use.
 
