@@ -82,7 +82,7 @@ That generates:
 
 [![GitHub forks](https://img.shields.io/github/forks/gabrielecanepa/HTMLStart.svg?style=social&label=Fork)](https://github.com/gabrielecanepa/HTMLStart/network) [![GitHub stars](https://img.shields.io/github/stars/gabrielecanepa/HTMLStart.svg?style=social&label=Star)](https://github.com/gabrielecanepa/HTMLStart/stargazers)
 
-Feel free to pull requests but please only if you have something very useful to add to the boilerplate, which is designed to keep a practical and simple use.
+Feel free to send a pull request but only if you have a useful update, the boilerplate is designed to keep a practical, fast and simple use.
 
 [![MIT Licensed](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)](http://sloria.mit-license.org/)
 
