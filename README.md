@@ -16,7 +16,7 @@ The generate document contains:
 - The **reccomend minimum** to make the document work properly on any device, showing a title and a description of the page
 - All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social context
 - A complete reference that will help you show your **favicon** on every browser and device
-- **Link and scripts** sample tags (with minified Bootstrap and FontAwesome) following best practices to help the document load faster
+- **Link and scripts** sample tags (with minified _Bootstrap_ and _FontAwesome_) following best practices to help the document load faster
 
 ## Install
 
