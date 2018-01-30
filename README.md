@@ -85,4 +85,4 @@ Feel free to send a pull request but only if you have a useful update, the boile
 
 [![MIT Licensed](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)](http://sloria.mit-license.org/)
 
-[↑ back to top](#table-of-contents)
+[↑ back to top](#html-start)
