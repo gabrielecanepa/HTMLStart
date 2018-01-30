@@ -1,36 +1,32 @@
 # HTMLStart
 
-Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to correctly start your page, including Open Graph tags and favicons.
+Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to correctly set your document, including Open Graph tags and favicons.
 
 ## Table of Contents
 
 - [Content]
-  - [Recommend minimum](#reccomend-minimum)
-  - [Open Graph tags](#open-graph-tags)
-  - [Twitter cards](#twitter-cards)
-  - [Favicons](#favicons)
-  - [Stylesheets and libraries](#stylesheets-and-libraries)
-  - [Scripts](#scripts)
 - [Install](#install)
   - [Manual](#manual)
   - [Via Package Control](#via-package-control)
 - [Usage](#usage)
+- [Contribute](#contribute)
 - [License](#license)
 
 ## Content
 
-This boilerplate contains the essential elements to make the document work properly on any device and application:
+The generate document contains:
 
-- **Reccomend Minimum**
+- The **reccomend minimum** to make the document work properly on any device, showing a title and a description of the page
+- All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social context
+- A complete reference that will help you show your **icon** on every browser and device
+- **Link and scripts** sample tags following best practices to help the document load faster
 
-
----
 
 ## Install
 
 ### Option 1: Manual
 
-Copy the files to your Packages directory.
+Download the
 
 ### Option 2: Package Control
 
