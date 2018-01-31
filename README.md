@@ -15,16 +15,16 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 
 The generate document contains:
 
-- The **reccomend minimum** to make the document work properly on any device, showing a title and a description of the page
+- The **reccomend minimum** to make the document work properly on any device and show a title and a description of the page
 - All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social context
-- A complete reference that will help you show your **favicons** on every browser and device
-- **Link and scripts** sample tags (with minified _Bootstrap_ and _FontAwesome_) following best practices to help the document load faster
+- A complete reference that will help you show your **favicon** on every browser and device
+- Some sample **link and script** tags (with minified _Bootstrap_ and _FontAwesome_ included) following best practices to help your document load faster
 
 ## Install
 
 ### Manual
 
-Fork, clone or directly download the repository and copy the file `htmlstart.sublime-snippet`.
+Fork, clone or directly download [the repository](https://github.com/gabrielecanepa/HTMLStart) and copy the file `htmlstart.sublime-snippet`.
 
 In your terminal type
 
@@ -44,13 +44,15 @@ and **paste the file** in the directory.
 
 ### Via Package Control
 
-In the command pallette (`⌘` + `⇧` + `P` on Mac) type 'Install' and press enter on `Package Control: Install Package` to see a list of packages.
+In the command pallette (`⌘ Cmd` + `⇧ Shift` + `P` on Mac, `Ctrl` + `⇧ Shift` + `P` on Linux/Windows) type 'Install' and press enter on `Package Control: Install Package` to see a list of available packages.
 
 Search for `HTMLStart`, then press enter again to install.
 
 ## Usage
 
-With **a blank HTML file** open the command palette, type 'HTML' end press enter on `Snippet: HTMLStart`. Another way to print the boilerplate is to digit `HTMLStart` on a blank HTML file and press `⇥` on yourk keyboard.
+In a new **blank HTML file** open the command palette, type 'HTML' end press enter on `Snippet: HTMLStart`.
+
+Another way to print the boilerplate is to digit `HTMLStart` at the top of a blank HTML file and press `Tab ↹` on your keyboard.
 
 That generates:
 
@@ -86,20 +88,28 @@ That generates:
     <link rel="shortcut icon" href="images/favicons/favicon.ico">
     <meta name="msapplication-config" content="images/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-    <!-- Stylesheets and libraries -->
+    <!-- Libraries and stylesheets -->
     <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="style.css">
   </head>
 
   <body>
-    <!-- Scripts -->
+
+    <!-- Scripts (bottom of the <body>) -->
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
 ```
+
+**Notes:**
+
+Modify the content for your needs but **don't change the order** of the tags, that consistently ensure proper document rendering:
+* the _reccomend minimum_ must be present and comes first
+* _stylesheets_ are linked at the bottom of the head and external libraries must be loaded first
+* all the _scripts_ are placed at the bottom of the body and external scripts come before
 
 ## Contribute
 
