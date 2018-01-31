@@ -6,6 +6,8 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 
 - [Content](#content)
 - [Install](#install)
+  - [Manual](#manual)
+  - [Via Package Control](#via-package-control)
 - [Usage](#usage)
 - [Contribute](#contribute)
 
@@ -19,6 +21,28 @@ The generate document contains:
 - **Link and scripts** sample tags (with minified _Bootstrap_ and _FontAwesome_) following best practices to help the document load faster
 
 ## Install
+
+### Manual
+
+Fork, clone or directly download the repository and copy the file `htmlstart.sublime-snippet`.
+
+In your terminal type
+
+* On **macOS**
+
+```bash
+mkdir ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Snippets && cd $_ && open .
+```
+
+* On **Linux/Windows**
+
+```bash
+mkdir ~/AppData/Roaming/Sublime\ Text\ 3/Packages/User/Snippets && cd $_ && open .
+```
+
+and **paste the file** in the directory.
+
+### Via Package Control
 
 In the command pallette (`⌘` + `⇧` + `P` on Mac) type 'Install' and press enter on `Package Control: Install Package` to see a list of packages.
 
