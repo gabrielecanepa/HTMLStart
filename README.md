@@ -17,7 +17,7 @@ The generate document contains:
 
 - The **reccomend minimum** to make the document work properly on any device, showing a title and a description of the page
 - All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social context
-- A complete reference that will help you show your **favicon** on every browser and device
+- A complete reference that will help you show your **favicons** on every browser and device
 - **Link and scripts** sample tags (with minified _Bootstrap_ and _FontAwesome_) following best practices to help the document load faster
 
 ## Install
@@ -50,7 +50,7 @@ Search for `HTMLStart`, then press enter again to install.
 
 ## Usage
 
-With a blank HTML file open the command palette, type 'HTML' end press enter on `HTMLStart: Start a New Project`.
+With **a blank HTML file** open the command palette, type 'HTML' end press enter on `Snippet: HTMLStart`. Another way to print the boilerplate is to digit `HTMLStart` on a blank HTML file and press `⇥` on yourk keyboard.
 
 That generates:
 
