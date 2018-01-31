@@ -12,7 +12,7 @@
     <!-- Open graph -->
     <meta property="og:title" content="Page Title">
     <meta property="og:description" content="A description of the page">
-    <meta property="og:site**name" content="Website Name">
+    <meta property="og:site_name" content="Website Name">
     <meta property="og:image" content="http://example.com/image.jpg"> <!-- 1200x630 -->
     <meta property="og:url" content="http://example.com/page.html">
     <!-- Twitter Cards -->
