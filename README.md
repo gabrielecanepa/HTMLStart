@@ -1,6 +1,6 @@
 # HTMLStart
 
-Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to correctly set your document, including Open Graph tags and favicons.
+Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to correctly set up your document, including Open Graph tags and favicons.
 
 ## Table of Contents
 
@@ -13,12 +13,12 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 
 ## Content
 
-The generate document contains:
+The snippet contains:
 
-- The **reccomend minimum** to make the document work properly on any device and show a title and a description of the page
-- All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social context
-- A complete reference that will help you show your **favicon** on every browser and device
-- Some sample **link and script** tags (with minified _Bootstrap_ and _FontAwesome_ included) following best practices to help your document load faster
+- The **recommend minimum** to let the document work properly on any device and to show a title and a description of the page
+- All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social network
+- A complete reference that will help you show your **favicons** on every browser and device
+- Some sample **link and script** tags (minified _Bootstrap_ and _FontAwesome_) following best practices to help your document load faster
 
 ## Install
 
@@ -40,19 +40,19 @@ mkdir ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Snippets && 
 mkdir ~/AppData/Roaming/Sublime\ Text\ 3/Packages/User/Snippets && cd $_ && open .
 ```
 
-and **paste the file** in the directory.
+and **paste the file** in the opened directory.
 
 ### Via Package Control
 
-In the command pallette (`⌘ Cmd` + `⇧ Shift` + `P` on Mac, `Ctrl` + `⇧ Shift` + `P` on Linux/Windows) type 'Install' and press enter on `Package Control: Install Package` to see a list of available packages.
+In the command pallette (`⌘ Cmd` + `⇧ Shift` + `P` on Mac, `Ctrl` + `⇧ Shift` + `P` on Linux/Windows) type 'Install' and select `Package Control: Install Package` to see a list of available packages.
 
-Search for `HTMLStart`, then press enter again to install.
+Search for `HTMLStart` and press enter again to install the package.
 
 ## Usage
 
-In a new **blank HTML file** open the command palette, type 'HTML' end press enter on `Snippet: HTMLStart`.
+In a new **blank HTML file** open the command palette, type 'HTML' and select `Snippet: HTMLStart`.
 
-Another way to print the boilerplate is to digit `HTMLStart` at the top of a blank HTML file and press `Tab ↹` on your keyboard.
+Another way to print the boilerplate is to digit `HTMLStart` at the top of your blank HTML file and press `Tab ↹` on your keyboard.
 
 That generates:
 
@@ -79,7 +79,7 @@ That generates:
     <meta name="twitter:image:src" content="http://example.com/image.jpg"> <!-- 800x418 or 800x800 -->
     <meta name="twitter:creator" content="Author Name">
     <meta name="twitter:card" content="card-name">
-    <!-- Favicons (using realfavicongenerator.net, with package placed in images/favicons) -->
+    <!-- Favicons (using realfavicongenerator.net with package placed in images/favicons) -->
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
@@ -111,7 +111,7 @@ That generates:
 **Notes:**
 
 Modify the content for your needs but **don't change the order** of the tags, that consistently ensure proper document rendering:
-* the _reccomend minimum_ must be present and comes first
+* the _recommend minimum_ must be present and comes first
 * _stylesheets_ are linked at the bottom of the head and external libraries must be loaded first
 * all the _scripts_ are placed at the bottom of the body and external scripts come before
 
