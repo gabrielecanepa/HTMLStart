@@ -117,8 +117,6 @@ Modify the content for your needs but **don't change the order** of the tags, th
 
 ## Contribute
 
-[![GitHub forks](https://img.shields.io/github/forks/gabrielecanepa/HTMLStart.svg?style=social&label=Fork)](https://github.com/gabrielecanepa/HTMLStart/network) [![GitHub stars](https://img.shields.io/github/stars/gabrielecanepa/HTMLStart.svg?style=social&label=Star)](https://github.com/gabrielecanepa/HTMLStart/stargazers)
-
 [![MIT Licensed](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)](http://sloria.mit-license.org/)
 
 [↑ back to top](#htmlstart)
