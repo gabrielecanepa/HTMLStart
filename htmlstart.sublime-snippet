@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Website Name">
     <meta property="og:image" content="http://example.com/image.jpg"> <!-- 1200x630 -->
     <meta property="og:url" content="http://example.com/page.html">
-    <!-- Twitter Cards -->
+    <!-- Twitter cards -->
     <meta name="twitter:title" content="Page Title">
     <meta name="twitter:description" content="A description of the page.">
     <meta name="twitter:site" content="Website Name">
@@ -32,7 +32,7 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-config" content="images/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-    <!-- External libraries -->
+    <!-- External resources and stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
