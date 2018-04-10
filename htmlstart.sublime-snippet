@@ -5,7 +5,7 @@
   <head>
     <!-- Recommend minimum -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=<inital-scale>, shrink-to-fit=no">
     <meta charset="UTF-8">
     <title>Page Title</title>
     <meta name="description" content="A description of the page.">
