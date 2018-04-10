@@ -117,6 +117,6 @@ Modify the content for your needs but **don't change the order** of the tags, th
 
 ## Contribute
 
-[![MIT Licensed](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)](http://sloria.mit-license.org/)
+[![MIT Licensed](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)](https://gabrielecanepa.github.io/mit-license/)
 
 [↑ back to top](#htmlstart)
