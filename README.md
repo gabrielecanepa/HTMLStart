@@ -1,6 +1,6 @@
 # HTMLStart
 
-Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to correctly set up your document, including Open Graph tags and favicons.
+Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to set up your document, including Open Graph tags and favicons.
 
 ## Table of Contents
 
@@ -16,9 +16,9 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 The snippet contains:
 
 - The **recommend minimum** to let the document work properly on any device and to show a title and a description of the page
-- All the essential **Open Graph** and **Twitter** tags that enable any web page to become a rich object in a social network
+- All the essential **Open Graph** and **Twitter** tags to enable any web page to become a rich object in a social network
 - A complete reference that will help you show your **favicons** on every browser and device
-- Some sample **link and script** tags (minified _Bootstrap_ and _FontAwesome_) following best practices to help your document load faster
+- Some sample **link and script** tags following best practices to help your document load faster
 
 ## Install
 
@@ -50,9 +50,9 @@ Search for `HTMLStart` and press enter again to install the package.
 
 ## Usage
 
-In a new **blank HTML file** open the command palette, type 'HTML' and select `Snippet: HTMLStart`.
+In a new **blank HTML file** open the command palette, type 'html' and select `Snippet: HTMLStart`.
 
-Another way to print the boilerplate is to digit `HTMLStart` at the top of your blank HTML file and press `Tab ↹` on your keyboard.
+Another way to print the boilerplate is to digit `html` at the top of your blank HTML file and press `Tab ↹` on your keyboard.
 
 That generates:
 
@@ -72,27 +72,27 @@ That generates:
     <meta property="og:site_name" content="Website Name">
     <meta property="og:image" content="http://example.com/image.jpg"> <!-- 1200x630 -->
     <meta property="og:url" content="http://example.com/page.html">
-    <!-- Twitter Cards -->
+    <!-- Twitter cards -->
     <meta name="twitter:title" content="Page Title">
     <meta name="twitter:description" content="A description of the page.">
     <meta name="twitter:site" content="Website Name">
     <meta name="twitter:image:src" content="http://example.com/image.jpg"> <!-- 800x418 or 800x800 -->
     <meta name="twitter:creator" content="Author Name">
     <meta name="twitter:card" content="card-name">
-    <!-- Favicons (using realfavicongenerator.net with package placed in images/favicons) -->
-    <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+    <!-- Favicons (using realfavicongenerator.net, with package placed in images and arbitrary colors) -->
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
     <link rel="manifest" href="images/favicons/site.webmanifest">
-    <link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="images/favicons/favicon.ico">
+    <link rel="mask-icon" href="images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2b5797">
-    <meta name="msapplication-config" content="images/favicons/browserconfig.xml">
+    <meta name="msapplication-config" content="images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-    <!-- External libraries -->
-    <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- External resources and stylesheets -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Open+Sans">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Stylesheets -->
     <link href="style.css" rel="stylesheet">
   </head>
