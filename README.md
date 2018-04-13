@@ -52,7 +52,7 @@ Search for `HTMLStart` and press enter again to install the package.
 
 In a new **blank HTML file** open the command palette, type 'html' and select `Snippet: HTMLStart`.
 
-Another way to print the boilerplate is to digit `html` at the top of your blank HTML file and press `Tab ↹` on your keyboard.
+Another way to print the boilerplate is to digit `start` at the top of your blank HTML file and press `Tab ↹` on your keyboard.
 
 That generates:
 
