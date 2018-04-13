@@ -1,6 +1,6 @@
 # HTMLStart
 
-Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to set up your document, including Open Graph tags and favicons.
+Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential elements to set up a simple web page, including Open Graph tags and favicons.
 
 ## Table of Contents
 
@@ -70,13 +70,13 @@ That generates:
     <meta property="og:title" content="Page Title">
     <meta property="og:description" content="A description of the page.">
     <meta property="og:site_name" content="Website Name">
-    <meta property="og:image" content="http://example.com/image.jpg"> <!-- 1200x630 -->
+    <meta property="og:image" content="http://example.com/image.jpg"> <!-- 1200x630 recommended -->
     <meta property="og:url" content="http://example.com/page.html">
     <!-- Twitter cards -->
     <meta name="twitter:title" content="Page Title">
     <meta name="twitter:description" content="A description of the page.">
     <meta name="twitter:site" content="Website Name">
-    <meta name="twitter:image:src" content="http://example.com/image.jpg"> <!-- 800x418 or 800x800 -->
+    <meta name="twitter:image:src" content="http://example.com/image.jpg"> <!-- 800x418 or 800x800 recommended -->
     <meta name="twitter:creator" content="Author Name">
     <meta name="twitter:card" content="card-name">
     <!-- Favicons (using realfavicongenerator.net, with package placed in images and arbitrary colors) -->
@@ -98,6 +98,7 @@ That generates:
   </head>
 
   <body>
+    <!-- Page content -->
 
     <!-- External scripts -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
