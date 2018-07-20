@@ -116,8 +116,4 @@ Modify the content for your needs but **don't change the order** of the tags, th
 * _stylesheets_ are linked at the bottom of the head and external libraries must be loaded first
 * all _scripts_ are placed at the bottom of the body and external scripts come before
 
-## License
-
-!(https://raw.githubusercontent.com/gabrielecanepa/ajax-dictionary-search/master/img/badge.svg)
-
 [↑ back to top](#htmlstart)
