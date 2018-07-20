@@ -15,10 +15,10 @@ Sublime Text 3 snippet to generate an HTML5 boilerplate with all the essential e
 
 The snippet contains:
 
-- The **recommend minimum** to let the document work properly on any device and to show a title and a description of the page
-- All the essential **Open Graph** and **Twitter** tags to enable any web page to become a rich object in a social network
-- A complete reference that will help you show your **favicons** on every browser and device
-- Some sample **link and script** tags following best practices to help your document load faster
+- The **recommend minimum** to make your document render properly on any device
+- All **Open Graph** and **Twitter** tags to make your page sharable on every social network
+- A complete reference to show your **favicon** on every browser and device
+- Some sample **link and script** tags following best practices
 
 ## Install
 
@@ -114,7 +114,7 @@ That generates:
 Modify the content for your needs but **don't change the order** of the tags, that consistently ensure proper document rendering:
 * the _recommend minimum_ must be present and comes first
 * _stylesheets_ are linked at the bottom of the head and external libraries must be loaded first
-* all the _scripts_ are placed at the bottom of the body and external scripts come before
+* all _scripts_ are placed at the bottom of the body and external scripts come before
 
 ## Contribute
 
