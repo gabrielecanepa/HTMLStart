@@ -118,6 +118,6 @@ Modify the content for your needs but **don't change the order** of the tags, th
 
 ## License
 
-[![MIT Licensed](https://raw.githubusercontent.com/gabrielecanepa/ajax-dictionary-search/master/img/badge.svg)
+!(https://raw.githubusercontent.com/gabrielecanepa/ajax-dictionary-search/master/img/badge.svg)
 
 [↑ back to top](#htmlstart)
