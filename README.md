@@ -115,5 +115,3 @@ Modify the content for your needs but **don't change the order** of the tags, th
 * the _recommend minimum_ must be present and comes first
 * _stylesheets_ are linked at the bottom of the head and external libraries must be loaded first
 * all _scripts_ are placed at the bottom of the body and external scripts come before
-
-[↑ back to top](#htmlstart)
